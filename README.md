@@ -45,7 +45,7 @@ mostrarToast('Tienes nuevos mensajes en tu bandeja.', 'info');
 
 ## Capturas de Pantalla
 1. Notificación de Éxito
-<img width="1627" height="931" alt="Parte_6" src="https://github.com/user-attachments/assets/977967ab-df00-4ba3-81e5-601c32f1d201" />
+<img width="1730" height="987" alt="1" src="https://github.com/user-attachments/assets/7f920f71-e7e0-4d2e-85a7-e4e7d8ece3f5" />
 2. Notificación de Error
 <img width="1920" height="1090" alt="Parte_7" src="https://github.com/user-attachments/assets/571de31a-2a41-406d-a316-01c63ef80959" />
 3. Notificación de Información
