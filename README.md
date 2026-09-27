@@ -1,8 +1,7 @@
-# Componente Visual JS: Toast Notification Dinámico
+# Componente Visual JS
 
 **Autor:** Uriel Espinoza de la Rosa  
-**Carrera:** Ingeniería en Sistemas Computacionales, ITO  
-**Materia:** Programación Web  
+**Carrera:** Ingeniería en Sistemas Computacionales, ITO   
 
 ## ¿Qué problema resuelve?
 
