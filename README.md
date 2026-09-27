@@ -49,7 +49,10 @@ mostrarToast('Tienes nuevos mensajes en tu bandeja.', 'info');
 2. Notificación de Error
 <img width="1920" height="1090" alt="Parte_7" src="https://github.com/user-attachments/assets/571de31a-2a41-406d-a316-01c63ef80959" />
 3. Notificación de Información
-<img width="1920" height="1200" alt="Parte_8" src="https://github.com/user-attachments/assets/621715d1-2b0b-444c-8d31-074efc13867e" />
+<img width="1576" height="896" alt="3" src="https://github.com/user-attachments/assets/19f6c12e-4e43-4b9e-9d47-f94a09640868" />
+
+
+
 
 ## Video Demostrativo
 En el siguiente video de 60 segundos explico el problema de diseño que resuelve el componente:
