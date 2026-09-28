@@ -55,5 +55,5 @@ mostrarToast('Tienes nuevos mensajes en tu bandeja.', 'info');
 
 
 ## Video Demostrativo
-En el siguiente video de 60 segundos explico el problema de diseño que resuelve el componente:
+En el siguiente video explico el problema de diseño que resuelve el componente:
 https://drive.google.com/file/d/1uoD076z1AJaofMmZNxrI57rpiDMOXrfG/view?usp=sharing
